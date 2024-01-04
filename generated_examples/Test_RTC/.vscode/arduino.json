@@ -1,0 +1,5 @@
+{
+    "sketch": "Test_RTC.ino",
+    "port": "/dev/tty.usbmodem101",
+    "board": "arduino:renesas_uno:minima"
+}
