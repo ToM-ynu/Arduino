@@ -1,0 +1,6 @@
+{
+    "board": "arduino:renesas_uno:minima",
+    "port": "/dev/tty.usbmodem101",
+    "programmer": "cmsis-dap",
+    "sketch": "AB2301B_read/AB2301B_read.ino"
+}
